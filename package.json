@@ -1,0 +1,24 @@
+{
+  "name": "canvas-arrow",
+  "version": "0.0.1",
+  "description": "simple S-curved arrows on canvas (to use with Browserify or Webpack)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RB-Lab/canvas-arrow.git"
+  },
+  "keywords": [
+    "canvas",
+    "arrow",
+    "arrowhead"
+  ],
+  "author": "Roman Bekkiev <rb@rblab.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RB-Lab/canvas-arrow/issues"
+  },
+  "homepage": "https://github.com/RB-Lab/canvas-arrow#readme"
+}
